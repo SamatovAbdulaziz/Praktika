@@ -1,0 +1,48 @@
+.rasm{
+    margin: auto;
+    left:400px;
+}
+.navbar-nav{
+    color: hotpink;
+}
+.car{
+    position: absolute;
+    top: 310px;
+    left: 750px;
+    border-radius: 15px;
+}
+.row.car {
+    position: absolute;
+    top: 310px;
+    left: 1100px;
+    color: hotpink;
+}
+.col-md-2{
+    color: hotpink;
+}
+
+.card-text{
+    color: hotpink;
+}
+.card-footer{
+    text-align: center;
+    color: hotpink;
+}
+.navbar-nav{
+    color:hotpink;
+}
+.card-body{
+    color: hotpink;
+}
+.container{
+    color: hotpink;
+}
+.li{
+    color: hotpink;
+}
+.collapse.navbar-collapse{
+    color: hotpink;
+}
+.nav-item{
+    color: hotpink;
+}
